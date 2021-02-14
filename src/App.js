@@ -6,6 +6,7 @@ const App = () =>{
      {/* NavBar */}
 
      <h1>Home </h1>
+     <p>Created by Chaitali</p>
      <HomePage />
    </div>
   )
